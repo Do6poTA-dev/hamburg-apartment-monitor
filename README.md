@@ -1,73 +1,86 @@
-# hamburg-apartment-monitor
-Find apartments in Hamburg instantly. Get alerts within seconds from IS24, SAGA, Immowelt &amp; Vonovia.
-# 🏠 Hamburg Apartment Monitor
+# 🏠 Find apartments in Hamburg within seconds — before others even see them
 
-Find apartments in Hamburg **before everyone else**.
-
-This tool monitors multiple housing platforms and sends you instant notifications when new listings appear.
+👉 **Start free (3 days):** https://t.me/WhSniperBot?start=ads_b3cf570f
 
 ---
 
-## 🚀 Why this exists
+## 🚀 Hamburg Apartment Monitor
 
-In cities like Hamburg, good apartments are gone within minutes.
+Simple system that tracks apartment listings and sends instant alerts прямо в Telegram.
 
-If you're not among the first to react — your chances drop to zero.
-
-This system solves exactly that.
+No installation needed — works directly via Telegram.
 
 ---
 
 ## ⚡ Features
 
-- 🏠 Monitors platforms:
+- 🏠 Platforms:
   - ImmobilienScout24 (IS24)
   - SAGA
   - Immowelt
   - Vonovia
 
-- ⚡ Ultra-fast alerts  
-  → Notifications within **5–60 seconds** after listing is published
+- ⚡ Speed:
+  → Alerts within **5–60 seconds** after listing appears
 
-- 🤖 Smart filtering  
+- 🤖 Smart filters  
   → Only relevant apartments
 
-- 🛡️ Anti-bot bypass  
-  → Works even when platforms try to limit scraping
+- 🛡️ Bypass protections  
+  → Works even when platforms limit access
 
-- 🌍 Multi-language support  
-  → English (default), more languages coming
+- 🌍 Multi-language  
+  → English (more coming)
 
 ---
 
 ## 📲 How it works
 
-1. System scans housing platforms continuously  
+1. System monitors multiple housing platforms  
 2. Detects new listings instantly  
-3. Sends you a Telegram notification  
-4. You react faster than everyone else  
+3. Sends notification to Telegram  
+4. You react before others  
 
 ---
 
-## 🎁 Free Trial (3 Days)
+## 💬 Why people use it
 
-Try it yourself:
+- New listings disappear within minutes  
+- First 5–10 applicants get all attention  
+- Manual checking is too slow  
+
+👉 Speed = advantage
+
+---
+
+## 📸 Example alert
+
+🏠 1-room apartment in Hamburg  
+💰 €720  
+📍 Wandsbek  
+⚡ Just listed  
+
+👉 Open listing
+
+---
+
+## 🎁 Free Trial
+
+Try it for free:
 
 👉 https://t.me/WhSniperBot?start=ads_b3cf570f
 
 ---
 
-## 💎 Premium Access
+## 💎 Pricing
 
-After trial:
+- 15 days — €20  
+- 30 days — €40  
 
-- 📦 15 days — €20  
-- 📦 30 days — €40  
-
-Premium includes:
+Includes:
 - instant alerts  
 - all platforms  
-- faster delivery  
+- priority delivery  
 
 ---
 
@@ -83,38 +96,8 @@ Premium includes:
 
 ---
 
-## 📸 Example notification
-
-🏠 2-room apartment in Hamburg  
-💰 €850  
-📍 Altona  
-⚡ Just listed  
-
-👉 Open listing
-
----
-
-## 🧠 Why it works
-
-Most people search manually.
-
-By the time they see a listing — it's already too late.
-
-This tool flips the process:
-
-👉 You don’t search  
-👉 You get notified first  
-
----
-
-## ⚠️ Disclaimer
-
-This project is for informational purposes.
-
----
-
-## ⭐ Final Thought
+## 🧠 Final Thought
 
 > The first 5 minutes decide everything.
 
-Be early. Always.
+Be faster. Get the apartment.
