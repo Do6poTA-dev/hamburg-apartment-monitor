@@ -74,8 +74,8 @@ Try it for free:
 
 ## 💎 Pricing
 
-- 15 days — €20  
-- 30 days — €40  
+- 15 days — €15
+- 30 days — €30
 
 Includes:
 - instant alerts  
